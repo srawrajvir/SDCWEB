@@ -11,4 +11,4 @@ This is my personal website
 - M.Phil
 - Ph.D
 
-I am working at[GNDEC].(https://gndec.ac.in)
+I am working at [GNDEC](https://gndec.ac.in)
